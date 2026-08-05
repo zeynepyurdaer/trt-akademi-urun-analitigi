@@ -15,7 +15,7 @@ Kişisel eğitim ve portföy projesidir. TRT ile resmî bağlantısı yoktur ve 
 - Ana tablo: `web_olaylari`
 - Dataset: `trt_analitik_egitim`
 - Analiz alanları: kullanıcı, oturum, kayıt, trafik, cihaz, platform, scroll ve sayfa performansı
-- ## Temel KPI Sonuçları
+  ## Temel KPI Sonuçları
 
 - Toplam kayıtlı kullanıcı: **205**
 - Son 91 gün: **204**
@@ -23,7 +23,7 @@ Kişisel eğitim ve portföy projesidir. TRT ile resmî bağlantısı yoktur ve 
 - Son 14 gün: **30**
 - Son 7 gün: **15**
 - Dün: **7**
-- ## Dashboard İçeriği
+ ## Dashboard İçeriği
 
 - Kayıtlı kullanıcı KPI kartları
 - Günlük kayıt trendi
@@ -32,7 +32,7 @@ Kişisel eğitim ve portföy projesidir. TRT ile resmî bağlantısı yoktur ve 
 - Platform ve cihaz dağılımları
 - Sayfa bazlı scroll analizi
 - Sayfa performansı tablosu
-- ## Kurulum
+ ## Kurulum
 
 1. Veriyi BigQuery’ye aktar.
 2. `sql/` klasöründeki sorguları numara sırasıyla çalıştır.
